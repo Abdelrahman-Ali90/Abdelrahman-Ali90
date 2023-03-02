@@ -5,11 +5,11 @@
 ### Hello! I'm  abdelrahaman
 ##  I'm interested in learning c langauge and modern technology in electerical engineering
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <br />
 <br />
-[![Mail Badge](https://img.shields.io/badge/-workworkey1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workworkey@gmail.com)](mailto:workworkey@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-workworkey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workworkey@gmail.com)](mailto:workworkey@gmail.com)
 
 <br />
 <br />
