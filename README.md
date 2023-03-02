@@ -12,8 +12,7 @@
 <br />
 <br />
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](**www.workworkey@gmail.com**)
-
+<a href="workworkey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <br />
 <br />
 
