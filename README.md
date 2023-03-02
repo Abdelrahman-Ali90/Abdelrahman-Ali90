@@ -7,15 +7,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<br />
-<br />
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](www.workworkey@gmail.com)
-
-<br />
-<br />
-
-  
   
   
   
