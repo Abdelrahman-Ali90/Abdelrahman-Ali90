@@ -1,4 +1,5 @@
-
+ 
+![background](https://via.placeholder.com/2000x800/ADD8E6/000000?text= "Background")
 # Hi there! 
 
 I'm Abdelrahman,  welcome to my profile  I'm learning c language
@@ -12,5 +13,4 @@ Looking forward to connecting with you!
 
 <div style="background-image: url('https://i.imgur.com/O0aXb0M.jpg'); background-size: cover; padding: 50px;">
 
- 
-![background](https://via.placeholder.com/2000x800/ADD8E6/000000?text= "Background")
+
