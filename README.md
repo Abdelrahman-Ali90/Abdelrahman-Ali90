@@ -13,8 +13,4 @@ Looking forward to connecting with you!
 <div style="background-image: url('https://i.imgur.com/O0aXb0M.jpg'); background-size: cover; padding: 50px;">
 
  
-<style>
-  body {
-    background-color: #add8e6;
-  }
-</style>
+![background](https://via.placeholder.com/2000x200/ADD8E6/000000?text=)
