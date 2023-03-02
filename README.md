@@ -15,4 +15,5 @@
 <br />
 
   
-  
+  [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workworkey@gmail.com)](mailto:workworkey@gmail.com)
+
