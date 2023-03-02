@@ -9,11 +9,13 @@
 
 <br />
 <br />
-[![Mail Badge](https://img.shields.io/badge/-workworkey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workworkey@gmail.com)](mailto:workworkey@gmail.com)
+
 
 <br />
 <br />
 
   
   [![Gmail Badge](https://img.shields.io/badge/-abdelrahaman-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workworkey@gmail.com)](mailto:workworkey@gmail.com)
-
+  
+  
+<img width="120px" src="https://techcrunch.com/wp-content/uploads/2012/01/screen-shot-2012-01-04-at-11-54-37-am.png?w=605" />
