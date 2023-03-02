@@ -3,7 +3,7 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm  abdelrahaman
-### Portfolio:https://github.com/Abdelrahman-Ali90/Abdelrahman-Ali90/blob/main/README.md
+### I'm learning c language
 
 
 <a href="https:https://www.facebook.com/profile.php?id=100008471058170">
@@ -13,6 +13,7 @@
 
 <br />
 <br />
+###  contact with me
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
