@@ -1,18 +1,5 @@
-<!DOCTYPE html>
-<html>
 
 	
-	<style>
-		body {
-			background-color: #ADD8E6;
-		}
-		.logo {
-			width: 100px;
-			height: 100px;
-			margin: 10px;
-		}
-	</style>
-
 <body>
 	<h1> welcome to my profile
 	<h1> 
