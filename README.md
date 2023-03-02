@@ -9,7 +9,7 @@
 
 <br />
 <br />
-[<img align="left" alt="Abdelrahman Ali | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100008471058170" />][facebook]
+[<img align="left" alt=" Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100008471058170" />
 
 <br />
 <br />
