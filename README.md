@@ -1,6 +1,1 @@
-![Hey there, I'm Abdelrahman welcomo to my profile(https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
-# 👋 &nbsp;Hi there
-
-
-&nbsp;
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
