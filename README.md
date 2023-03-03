@@ -10,7 +10,7 @@
 
   
 
-[![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://web.telegram.org/k/)
+[![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://web.telegram.org/k@abdelrahman_ali33/)
 
 
   
