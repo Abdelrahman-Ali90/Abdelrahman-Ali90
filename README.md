@@ -10,5 +10,7 @@
 
   
 <p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](workworkey@gmail.com)
+
 </p>
   
