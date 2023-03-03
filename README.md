@@ -10,7 +10,7 @@
 
   
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](workworkey@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://@abdelrahman_ali33)
 
 
   
