@@ -1,4 +1,4 @@
-
+[![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://t.me/abdelrahman_ali33)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
