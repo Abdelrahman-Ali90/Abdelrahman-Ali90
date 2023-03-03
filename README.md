@@ -9,9 +9,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
-  
-
-[![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://t.me/abdelrahman_ali33)
+ 
 
 
   
