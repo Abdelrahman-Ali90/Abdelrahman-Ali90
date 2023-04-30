@@ -6,7 +6,7 @@
 ##  I'm interested in learning c langauge and modern technology in electerical engineering
 [![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://t.me/abdelrahman_ali33)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 
  
