@@ -5,7 +5,7 @@
 ### Hello! I'm  abdelrahaman
 ##  I'm interested in learning  modern technology in electerical engineering
 [![](https://img.shields.io/badge/Telegram-%40abdelrahman-blue)](https://t.me/abdelrahman_ali33)
-[![](https://img.shields.io/badge/Gmail-01ABDELRAHMAN%40gmail.com-red)](https://mail.google.com/mail/u/0/#inbox)
+[![](https://img.shields.io/badge/Gmail-Abdelrahman%gmail.com-red)](https://mail.google.com/mail/u/0/#inbox)
 
 
 
